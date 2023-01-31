@@ -1,5 +1,5 @@
-# Logistic_Regression
-Predict how likely it is that the people will take an H1N1 flu vaccine using Logistic  Regression.
+# H1N1 Flu Vaccine Usage Prediction
+Predict how likely it is that the people will take an H1N1 flu vaccine using Logistic Regression.
 
 ## Abstract
 This study aims to predict the likelihood of receiving an H1N1 flu vaccine using logistic regression. The data for this study includes demographic information such as age, gender, and occupation, as well as information on the individual's previous vaccination history and their perceptions towards vaccines. 
