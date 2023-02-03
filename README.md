@@ -14,5 +14,5 @@ $$
 L(y, \hat{y}) = -y \log(\hat{y}) - (1 - y) \log(1 - \hat{y})
 $$
 
-where,<br><br> $y$ : true label or true index<br><br>
+where,<br><br> $y$ : true label<br><br>
 $\hat{y}$ : predicted probability of the sample being of class 1 <br><br>$L$ : loss function</p>
